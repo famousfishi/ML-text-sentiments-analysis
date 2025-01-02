@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML-text-sentiments-analysis", "ML-text-sentiments-analysis\ML-text-sentiments-analysis.csproj", "{3C98E16E-4407-4139-9E71-A9608764DE41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextsSentimentModel_WebApi", "TextsSentimentModel_WebApi\TextsSentimentModel_WebApi.csproj", "{41FE7F73-83A4-451D-801E-55311F5D48FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C98E16E-4407-4139-9E71-A9608764DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C98E16E-4407-4139-9E71-A9608764DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C98E16E-4407-4139-9E71-A9608764DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C98E16E-4407-4139-9E71-A9608764DE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FE7F73-83A4-451D-801E-55311F5D48FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FE7F73-83A4-451D-801E-55311F5D48FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FE7F73-83A4-451D-801E-55311F5D48FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FE7F73-83A4-451D-801E-55311F5D48FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54E925E-19D0-437A-AAB7-08EAC9D26708}
+	EndGlobalSection
+EndGlobal
