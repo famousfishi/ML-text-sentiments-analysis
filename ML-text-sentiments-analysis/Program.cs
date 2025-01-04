@@ -3,7 +3,7 @@ using ML_text_sentiments_analysis;
 
 var sampleData = new TextsSentimentModel.ModelInput()
 {
-    Col0 = @"Fisayo is super duper not amazing.",
+    Col0 = "Fisayo is super duper not amazing.",
 };
 
 //Load model and predict output
